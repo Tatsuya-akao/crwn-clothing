@@ -12,7 +12,7 @@ Google sign in
 */
 
 const BUTTON_TYPE_CLASSES = {
-  google: "google-signin",
+  google: "google-sign-in",
   inverted: "inverted",
 };
 
